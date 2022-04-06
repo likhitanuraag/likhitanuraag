@@ -1,6 +1,6 @@
 ### Hi there, I'm Anuraag 👋
 
-## I'm a Data Scientist, and a Student!!
+## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
