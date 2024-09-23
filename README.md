@@ -1,15 +1,15 @@
 ### Hi there, I'm Anuraag 👋
 
-## I'm a Student!!
+<!--  ## I'm a Student!! -->
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn languages and watch youtube
+<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
+- ⚡ Fun fact about me: I love to learn languages and watch youtube
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+<!--  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -37,6 +37,6 @@
 
 ---
 
-[instagram]: https://www.instagram.com/likhitanuraag/
-[linkedin]: https://www.linkedin.com/in/likhitanuraag/
+<!-- [instagram]: https://www.instagram.com/likhitanuraag/ -->
+<!--  [linkedin]: https://www.linkedin.com/in/likhitanuraag/ -->
 
